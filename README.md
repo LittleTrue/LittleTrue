@@ -10,5 +10,5 @@ Working In China GuanZhou 🕹Web developer
 
 <details>
 <summary>About Me </summary>
-simple blog there: https://www.jianshu.com/u/8775ddf16c8b
+simple blog there: https://www.littletrue.cn/
 </details>
